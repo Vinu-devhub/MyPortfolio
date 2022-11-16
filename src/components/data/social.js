@@ -2,16 +2,16 @@ export const SocialData = [
   {
     platform: "Linkedin",
     icon: require("../../assets/icons/linkedin.png"),
-    link: "www.linkedin.com",
+    link: "https://www.linkedin.com/in/vinay-bhamre/",
   },
   {
     platform: "Github",
     icon: require("../../assets/icons/github.png"),
-    link: "www.linkedin.com",
+    link: "https://github.com/Vinu-devhub",
   },
   {
     platform: "Twitter",
     icon: require("../../assets/icons/twitter.png"),
-    link: "www.linkedin.com",
+    link: "https://twitter.com/__Vinay_",
   },
 ];
