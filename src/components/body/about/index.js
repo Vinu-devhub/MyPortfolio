@@ -33,7 +33,7 @@ function About() {
       </div>
       <div className="resume">
         <a
-          download="Rohan's_Resume"
+          download="Vinay_Bhamre_Resume"
           href={require("../../../assets/resume.pdf")}
         >
           <button className="resume-button">
