@@ -1,4 +1,5 @@
 import shopcartImg from "../../assets/shopcart_project.png";
+import travigoImg from "../../assets/travigo_project.png";
 
 export const ProjectData = [
   {
@@ -13,13 +14,12 @@ export const ProjectData = [
   },
   {
     id: 2,
-    title: "Random Project 2",
+    title: "Travigo Landing Page",
     about:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse velit consectetur adipisci, quos fugit voluptatum aspernatur consequuntur cumque dolor fugiat.",
-    tags: ["React", "NodeJs", "Firbase"],
-    demo: "www.example.com",
-    github: "www.github.com",
-    image:
-      "https://static.collectui.com/shots/3774661/source-video-hosting-large",
+      "Modern and Responsive Landing page of travel agency site built using React.js, TailwindCSS",
+    tags: ["React", "TailwindCSS", "Vite.js"],
+    demo: "https://travigoapp.netlify.app/",
+    github: "https://github.com/Vinu-devhub/Travigo_Travel_Agency",
+    image: travigoImg,
   },
 ];
