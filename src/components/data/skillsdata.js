@@ -20,6 +20,10 @@ export const SkillData = [
         icon: <i class="devicon-react-original colored"></i>,
       },
       {
+        name: "Redux",
+        icon: <i class="devicon-redux-original colored"></i>,
+      },
+      {
         name: "TailwindCSS",
         icon: <i class="devicon-tailwindcss-plain colored"></i>,
       },
