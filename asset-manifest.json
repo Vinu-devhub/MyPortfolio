@@ -1,14 +1,14 @@
 {
   "main.css": "/MyPortfolio/static/css/main.a852506a.chunk.css",
-  "main.js": "/MyPortfolio/static/js/main.c296c791.chunk.js",
-  "main.js.map": "/MyPortfolio/static/js/main.c296c791.chunk.js.map",
+  "main.js": "/MyPortfolio/static/js/main.2959331a.chunk.js",
+  "main.js.map": "/MyPortfolio/static/js/main.2959331a.chunk.js.map",
   "static/js/1.034983b5.chunk.js": "/MyPortfolio/static/js/1.034983b5.chunk.js",
   "static/js/1.034983b5.chunk.js.map": "/MyPortfolio/static/js/1.034983b5.chunk.js.map",
   "static/js/2.94660e5c.chunk.js": "/MyPortfolio/static/js/2.94660e5c.chunk.js",
   "static/js/2.94660e5c.chunk.js.map": "/MyPortfolio/static/js/2.94660e5c.chunk.js.map",
   "runtime~main.js": "/MyPortfolio/static/js/runtime~main.d84fb345.js",
   "runtime~main.js.map": "/MyPortfolio/static/js/runtime~main.d84fb345.js.map",
-  "static/media/resume.pdf": "/MyPortfolio/static/media/resume.f2028e9a.pdf",
+  "static/media/resume.pdf": "/MyPortfolio/static/media/resume.a3d3aa90.pdf",
   "static/media/shopcart_project.png": "/MyPortfolio/static/media/shopcart_project.9315cb35.png",
   "static/media/travigo_project.png": "/MyPortfolio/static/media/travigo_project.0fc9e596.png",
   "static/media/linkedin.png": "/MyPortfolio/static/media/linkedin.ada17c57.png",
@@ -17,6 +17,6 @@
   "static/media/coding.png": "/MyPortfolio/static/media/coding.72cb5467.png",
   "static/css/main.a852506a.chunk.css.map": "/MyPortfolio/static/css/main.a852506a.chunk.css.map",
   "index.html": "/MyPortfolio/index.html",
-  "precache-manifest.a7710714b13d04cfaf689b9780847efc.js": "/MyPortfolio/precache-manifest.a7710714b13d04cfaf689b9780847efc.js",
+  "precache-manifest.c1452b93998fa7274cd236c977d2a2fa.js": "/MyPortfolio/precache-manifest.c1452b93998fa7274cd236c977d2a2fa.js",
   "service-worker.js": "/MyPortfolio/service-worker.js"
 }
